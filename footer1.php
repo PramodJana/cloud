@@ -20,7 +20,7 @@
     <div class="footer-copyright text-center py-3">© 2018 Copyright:
        Cloud Is Everywhere.com
     <br>
-                Designed By : Pramod Jana And Shreyash Kumar Singh...!!!
+                Designed By : Pramod Jana And Shashank Mishra...!!!
                 </div>
     <!-- Copyright -->
 
