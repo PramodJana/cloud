@@ -22,7 +22,7 @@
 
 
   </head>
-  <body style="margin-top:55px; font-family: 'PT Serif', serif;" id="body">
+  <body style="margin-top:70px; font-family: 'PT Serif', serif;" id="body">
     <?php
     include 'header5.php';
     ?>
