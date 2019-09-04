@@ -8,12 +8,20 @@
     <meta name="keywords" content="Private Cloud vs Community Cloud,Cloud,Private Cloud,Community Cloud">
     <meta name="author" content="Pramod Jana">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-
+    
     <title>Cloud Is Everywhere | Public verses Community Clouds</title>
+ 
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>Cloud Is Everywhere</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+      <!-- Google fonts -->
+      <link href="https://fonts.googleapis.com/css?family=PT+Serif&display=swap" rel="stylesheet">
+
+
   </head>
-  <body>
+  <body style="margin-top:55px; font-family: 'PT Serif', serif;" id="body">
     <?php
     include 'header5.php';
     ?>

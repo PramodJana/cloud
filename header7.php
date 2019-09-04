@@ -25,7 +25,7 @@
   </head>
   <body>
       <?php
-      echo '<nav class="navbar navbar-expand-lg navbar-dark " style="background-color:#414D45;">
+      echo '<nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color:#414D45;">
   <a class="navbar-brand wow pulse" href="index.php">Cloud Is Everywhere</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>

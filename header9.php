@@ -21,10 +21,11 @@
     animation-iteration-count:infinite;
     }
     </style>
+
   </head>
   <body>
       <?php
-      echo '<nav class="navbar navbar-expand-lg navbar-dark " style="background-color:#5E35A6;">
+      echo '<nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color:#5E35A6;">
   <a class="navbar-brand wow pulse" href="index.php">Cloud Is Everywhere</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
